@@ -1,0 +1,3 @@
+In this program, 
+the user can add a user password and can do three things: 
+add, view and close the program and how to encrypt and decrypt the password.

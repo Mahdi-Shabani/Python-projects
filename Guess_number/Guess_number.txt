@@ -1,0 +1,3 @@
+Gusess-number : 
+We take a small and a large number from the user, and then the program must generate a random number and 
+ask the user to guess, and the user will have five chances to guess.
